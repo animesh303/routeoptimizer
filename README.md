@@ -129,5 +129,5 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-Animesh Kumar Naskar
+Name: Animesh Kumar Naskar
 Email: <animesh303@gmail.com>
