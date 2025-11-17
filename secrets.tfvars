@@ -1,0 +1,3 @@
+# secrets.tfvars
+# Refer to https://cloud.google.com/docs/authentication/api-keys for more information
+google_api_key = "<insert_api_key>"
