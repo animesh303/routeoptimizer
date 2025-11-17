@@ -1,0 +1,7 @@
+# Durations of lunch and dinner
+lunch_duration_mins  = 60
+dinner_duration_mins = 60
+
+# Hour in the day when the lunch or dinner should start
+lunch_hr             = 12
+dinner_hr            = 19
